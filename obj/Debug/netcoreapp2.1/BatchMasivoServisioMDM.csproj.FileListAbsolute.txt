@@ -1,0 +1,11 @@
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\bin\Debug\netcoreapp2.1\BatchMasivoServisioMDM.deps.json
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\bin\Debug\netcoreapp2.1\BatchMasivoServisioMDM.runtimeconfig.json
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\bin\Debug\netcoreapp2.1\BatchMasivoServisioMDM.runtimeconfig.dev.json
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\bin\Debug\netcoreapp2.1\BatchMasivoServisioMDM.dll
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\bin\Debug\netcoreapp2.1\BatchMasivoServisioMDM.pdb
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\obj\Debug\netcoreapp2.1\BatchMasivoServisioMDM.csprojAssemblyReference.cache
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\obj\Debug\netcoreapp2.1\BatchMasivoServisioMDM.csproj.CoreCompileInputs.cache
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\obj\Debug\netcoreapp2.1\BatchMasivoServisioMDM.AssemblyInfoInputs.cache
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\obj\Debug\netcoreapp2.1\BatchMasivoServisioMDM.AssemblyInfo.cs
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\obj\Debug\netcoreapp2.1\BatchMasivoServisioMDM.dll
+C:\Users\lbetancr\Documents\ProjectsNetCore\BatchMasivoServisioMDM\obj\Debug\netcoreapp2.1\BatchMasivoServisioMDM.pdb
