@@ -21,8 +21,8 @@ namespace BatchMasivoServisioMDM
 
             var context = new IntegracionsContext(builderContext.Options);
 
-            DateTime inicio = new DateTime(2018, 12, 03, 08, 43, 13);
-            DateTime fin = new DateTime(2018, 12, 03, 08, 43, 14);
+            DateTime inicio = new DateTime(2019, 01, 09, 08, 43, 13);
+            DateTime fin = new DateTime(2019, 05, 15, 08, 43, 14);
 
             new ProcesarError(context, configuration).IniciarProceso(inicio, fin);
         }

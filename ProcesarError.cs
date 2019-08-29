@@ -50,7 +50,7 @@ namespace BatchMasivoServisioMDM
         }
         public List<LogViewModel> ConsultarErrores(DateTime dInicio, DateTime dFin)
         {
-            string cadenaError = "<retornoError";
+            string cadenaError = "The given key was not present in the dictionary.mscorlib";
             string cadenaEmpiezaCon = "Servicio: AltaBajaModificacionArticulos-RetornoIBM Entidad:";
             return _context.LogIntegraciones.Where(log => log.FechaInicio >= dInicio && log.FechaInicio <= dFin && log.XmlRequest.Contains(cadenaError) && log.Operacion.StartsWith(cadenaEmpiezaCon)).Select(log => new LogViewModel()
             {
